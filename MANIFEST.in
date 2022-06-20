@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include retail_machinery *.css
+recursive-include retail_machinery *.csv
+recursive-include retail_machinery *.html
+recursive-include retail_machinery *.ico
+recursive-include retail_machinery *.js
+recursive-include retail_machinery *.json
+recursive-include retail_machinery *.md
+recursive-include retail_machinery *.png
+recursive-include retail_machinery *.py
+recursive-include retail_machinery *.svg
+recursive-include retail_machinery *.txt
+recursive-exclude retail_machinery *.pyc
