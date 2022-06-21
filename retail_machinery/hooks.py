@@ -57,7 +57,7 @@ app_license = "MIT"
 # ------------
 
 # before_install = "retail_machinery.install.before_install"
-# after_install = "retail_machinery.install.after_install"
+after_install = "retail_machinery.custom.item_custom.item"
 
 # Uninstallation
 # ------------
