@@ -1,12 +1,12 @@
 from . import __version__ as app_version
 
 app_name = "retail_machinery"
-app_title = "retail"
-app_publisher = "hiran"
-app_description = "retail"
+app_title = "Retail Machinery"
+app_publisher = "Thirvusoft"
+app_description = "Retail mechinery"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "hiran@gmail/com"
+app_email = "thirvusoft@gmail.com"
 app_license = "MIT"
 
 # Includes in <head>

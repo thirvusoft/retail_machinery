@@ -9,9 +9,9 @@ from retail_machinery import __version__ as version
 setup(
 	name="retail_machinery",
 	version=version,
-	description="retail",
-	author="hiran",
-	author_email="hiran@gmail/com",
+	description="Retail mechinery",
+	author="Thirvusoft",
+	author_email="thirvusoft@gmail.com",
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,

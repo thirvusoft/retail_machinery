@@ -1,6 +1,6 @@
-## retail
+## Retail Machinery
 
-retail
+Retail mechinery
 
 #### License
 
